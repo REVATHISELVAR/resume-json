@@ -1,0 +1,62 @@
+{
+  "name": "Revathi",
+  "title": "B.Tech Artificial Intelligence Student",
+  "summary": "Third-year B.Tech Artificial Intelligence student with strong interest in Python, Machine Learning, and basic web development. Experienced in building beginner-level ML models and small data-driven applications. Actively seeking internship opportunities to gain hands-on industry experience and improve problem-solving skills.",
+
+  "contact": {
+    "email": "revathiresh26@gmail.com",
+    "phone": "6379612237",
+    "location": "India",
+    "github": "https://github.com/REVATHISELVAR/",
+    "linkedin": "https://www.linkedin.com/in/revathi-selva-2413b0314/"
+  },
+
+  "education": [
+    {
+      "degree": "B.Tech in Artificial Intelligence",
+      "college": "SRM Institute of Science and Technology",
+      "year": "2027"
+    }
+  ],
+
+  "skills": [
+    "Python (Beginner)",
+    "Machine Learning (Basics)",
+    "NumPy (Beginner)",
+    "Pandas (Beginner)",
+    "Matplotlib (Beginner)",
+    "Data Preprocessing",
+    "DBMS (Basics)",
+    "Git & GitHub (Basics)",
+    "HTML (Beginner)",
+    "CSS (Beginner)",
+    "JavaScript (Beginner)"
+  ],
+
+  "projects": [
+    {
+      "title": "Crop Recommendation System",
+      "tech_stack": ["Python", "Machine Learning", "DBMS"],
+      "description": "Built a crop recommendation system that suggests suitable crops based on soil nutrients and location parameters to support farmer decision-making."
+    },
+    {
+      "title": "House Price Prediction Model",
+      "tech_stack": ["Python", "NumPy", "Pandas", "Matplotlib", "Linear Regression", "Logistic Regression"],
+      "description": "Developed ML models to predict Bengaluru house prices using Linear and Logistic Regression. Performed data preprocessing, basic feature engineering, and compared model accuracy."
+    },
+    {
+      "title": "Guessing the Number Game",
+      "tech_stack": ["Python", "NumPy", "Pandas", "Matplotlib"],
+      "description": "Created a Python-based number guessing game using NumPy for random number generation and Pandas to store guesses with feedback. Displayed a summary table of all attempts at the end."
+    }
+  ],
+
+  "workshops": [
+    {
+      "title": "Generative AI Workshop",
+      "institution": "Indian Institute of Technology (IIT Madras)",
+      "description": "Attended hands-on sessions on Generative AI, prompt engineering, and practical applications using modern AI tools."
+    }
+  ]
+}
+
