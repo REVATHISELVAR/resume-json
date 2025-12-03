@@ -67,13 +67,14 @@
 
   "awards": [],
 
-  "workshops": [
-    {
-      "name": "Generative AI Workshop",
-      "issuer": "IIT Madras",
-      "summary": "Attended hands-on sessions on Generative AI, prompt engineering, and AI-based productivity tools."
-    }
-  ]
+ "certificates": [
+  {
+    "name": "Generative AI Workshop",
+    "issuer": "IIT Madras",
+    "summary": "Hands-on sessions on Generative AI, prompt engineering, and practical applications."
+  }
+]
+
 }
 
 
