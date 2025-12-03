@@ -1,62 +1,79 @@
 {
-  "name": "Revathi",
-  "title": "B.Tech Artificial Intelligence Student",
-  "summary": "Third-year B.Tech Artificial Intelligence student with strong interest in Python, Machine Learning, and basic web development. Experienced in building beginner-level ML models and small data-driven applications. Actively seeking internship opportunities to gain hands-on industry experience and improve problem-solving skills.",
-
-  "contact": {
+  "basics": {
+    "name": "Revathi",
+    "label": "B.Tech Artificial Intelligence Student",
     "email": "revathiresh26@gmail.com",
     "phone": "6379612237",
-    "location": "India",
-    "github": "https://github.com/REVATHISELVAR/",
-    "linkedin": "https://www.linkedin.com/in/revathi-selva-2413b0314/"
+    "location": {
+      "country": "India"
+    },
+    "url": "https://github.com/REVATHISELVAR",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/revathi-selva-2413b0314/"
+      },
+      {
+        "network": "GitHub",
+        "url": "https://github.com/REVATHISELVAR"
+      }
+    ],
+    "summary": "Third-year B.Tech Artificial Intelligence student with strong interest in Python, Machine Learning, DBMS, and basic web development. Skilled in building small data-driven applications and beginner-level AI systems. Actively seeking internship opportunities to gain hands-on industry experience."
   },
 
   "education": [
     {
-      "degree": "B.Tech in Artificial Intelligence",
-      "college": "SRM Institute of Science and Technology",
-      "year": "2027"
+      "institution": "SRM Institute of Science and Technology",
+      "area": "Artificial Intelligence",
+      "studyType": "B.Tech",
+      "endDate": "2027"
     }
   ],
 
   "skills": [
-    "Python (Beginner)",
-    "Machine Learning (Basics)",
-    "NumPy (Beginner)",
-    "Pandas (Beginner)",
-    "Matplotlib (Beginner)",
-    "Data Preprocessing",
-    "DBMS (Basics)",
-    "Git & GitHub (Basics)",
-    "HTML (Beginner)",
-    "CSS (Beginner)",
-    "JavaScript (Beginner)"
+    { "name": "Python", "level": "Beginner" },
+    { "name": "Machine Learning", "level": "Basics" },
+    { "name": "NumPy", "level": "Beginner" },
+    { "name": "Pandas", "level": "Beginner" },
+    { "name": "Matplotlib", "level": "Beginner" },
+    { "name": "DBMS", "level": "Basics" },
+    { "name": "Data Preprocessing", "level": "Beginner" },
+    { "name": "Git & GitHub", "level": "Basics" },
+    { "name": "HTML", "level": "Beginner" },
+    { "name": "CSS", "level": "Beginner" },
+    { "name": "JavaScript", "level": "Beginner" }
   ],
 
   "projects": [
     {
-      "title": "Crop Recommendation System",
-      "tech_stack": ["Python", "Machine Learning", "DBMS"],
-      "description": "Built a crop recommendation system that suggests suitable crops based on soil nutrients and location parameters to support farmer decision-making."
+      "name": "Crop Recommendation System",
+      "roles": ["Developer"],
+      "description": "Designed a DBMS-based crop recommendation system that stores and processes soil nutrient values, farmer details, and fertilizer information. Generated crop suggestions using rule-based logic and SQL queries without ML models.",
+      "keywords": ["DBMS", "SQL", "Data Analysis"]
     },
     {
-      "title": "House Price Prediction Model",
-      "tech_stack": ["Python", "NumPy", "Pandas", "Matplotlib", "Linear Regression", "Logistic Regression"],
-      "description": "Developed ML models to predict Bengaluru house prices using Linear and Logistic Regression. Performed data preprocessing, basic feature engineering, and compared model accuracy."
+      "name": "House Price Prediction",
+      "roles": ["Data Analyst"],
+      "description": "Performed data cleaning, feature preprocessing, outlier handling, and visualization to analyze Bengaluru house price patterns. Implemented regression logic to understand price trends.",
+      "keywords": ["Python", "Data Cleaning", "Visualization"]
     },
     {
-      "title": "Guessing the Number Game",
-      "tech_stack": ["Python", "NumPy", "Pandas", "Matplotlib"],
-      "description": "Created a Python-based number guessing game using NumPy for random number generation and Pandas to store guesses with feedback. Displayed a summary table of all attempts at the end."
+      "name": "Guess the Number Game",
+      "roles": ["Python Developer"],
+      "description": "Created an interactive number-guessing game using Python. Used NumPy for random number generation and Pandas to store game history with attempt tracking.",
+      "keywords": ["Python", "NumPy", "Pandas"]
     }
   ],
 
+  "awards": [],
+
   "workshops": [
     {
-      "title": "Generative AI Workshop",
-      "institution": "Indian Institute of Technology (IIT Madras)",
-      "description": "Attended hands-on sessions on Generative AI, prompt engineering, and practical applications using modern AI tools."
+      "name": "Generative AI Workshop",
+      "issuer": "IIT Madras",
+      "summary": "Attended hands-on sessions on Generative AI, prompt engineering, and AI-based productivity tools."
     }
   ]
 }
+
 
